@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'near-test'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'dapp'
 
 function getConfig(env) {
   switch (env) {
